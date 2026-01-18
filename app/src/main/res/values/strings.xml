@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypto Tracker</string>
+    <string name="tile_label">Crypto Price</string>
+    <string name="complication_label">Crypto Price</string>
+    
+    <!-- Screens -->
+    <string name="watchlist_title">Watchlist</string>
+    <string name="portfolio_title">Portfolio</string>
+    <string name="alerts_title">Price Alerts</string>
+    <string name="search_title">Search</string>
+    <string name="detail_title">Details</string>
+    
+    <!-- Actions -->
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    
+    <!-- Messages -->
+    <string name="empty_watchlist">No cryptocurrencies in your watchlist.\nTap Add to get started.</string>
+    <string name="empty_portfolio">No holdings in your portfolio.\nAdd your crypto holdings to track performance.</string>
+    <string name="empty_alerts">No price alerts configured.\nSet alerts to get notified of price changes.</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="error_network">Network error. Check your connection.</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_alerts">Price Alerts</string>
+    <string name="notification_channel_desc">Notifications for cryptocurrency price alerts</string>
+</resources>
